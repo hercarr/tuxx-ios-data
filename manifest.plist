@@ -10,7 +10,7 @@
 						<key>kind</key>
 						<string>software-package</string>
 						<key>url</key>
-						<string>https://github.com/hercarr/tuxx-ios-data/blob/master/tuux.ipa?raw=true</string>
+						<string>https://raw.githubusercontent.com/hercarr/tuxx-ios-data/master/tuux.ipa</string>
 					</dict>
 				</array>
 				<key>metadata</key>
